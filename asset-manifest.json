@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GrowingWithData/static/css/main.70a178a5.css",
+    "main.js": "/GrowingWithData/static/js/main.21e8a317.js",
+    "static/js/787.8c5c1379.chunk.js": "/GrowingWithData/static/js/787.8c5c1379.chunk.js",
+    "static/media/laptop.jpg": "/GrowingWithData/static/media/laptop.5b5b1edbe258e6bfcf3d.jpg",
+    "index.html": "/GrowingWithData/index.html",
+    "main.70a178a5.css.map": "/GrowingWithData/static/css/main.70a178a5.css.map",
+    "main.21e8a317.js.map": "/GrowingWithData/static/js/main.21e8a317.js.map",
+    "787.8c5c1379.chunk.js.map": "/GrowingWithData/static/js/787.8c5c1379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70a178a5.css",
+    "static/js/main.21e8a317.js"
+  ]
+}
